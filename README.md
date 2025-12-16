@@ -49,5 +49,6 @@
 
 ### Решение 4.
 
-<img width="1285" height="1031" alt="ELK_Capture_5" src="https://github.com/user-attachments/assets/d929303f-f9ab-49af-a382-f8a17090449d" />
+<img width="1285" height="1051" alt="ELK_Capture_5" src="https://github.com/user-attachments/assets/838c9ff2-79be-42f5-ba38-2e23ce4f506c" />
 
+---
